@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="pics/logo.png" width="128" height="128" alt="Fyrox" />
+    <img src="pics/JPEG image.jpeg" width="128" height="128" alt="Fyrox" />
   </a>
   <h1>Hypertrox - a modern Rust game engine</h1>
 </div>
