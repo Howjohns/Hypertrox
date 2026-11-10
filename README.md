@@ -4,7 +4,8 @@
   </a>
   <h1>Hypertrox - a modern Rust game engine</h1>
 </div>
-ORIGINAL LINKS
+
+## ORIGINAL LINKS
 [![License (MIT)](https://img.shields.io/crates/l/fyrox)](https://github.com/FyroxEngine/Fyrox/blob/master/LICENSE.md)
 [![CI Status](https://github.com/FyroxEngine/Fyrox/actions/workflows/ci.yml/badge.svg)](https://github.com/FyroxEngine/Fyrox/actions/workflows/ci.yml)
 [![Crates.io](https://img.shields.io/crates/v/fyrox)](https://crates.io/crates/fyrox)
