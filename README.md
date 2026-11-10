@@ -19,3 +19,6 @@ A feature-rich, production-ready, general purpose 2D/3D game engine written in R
 
 ## MORE IMPORTANT INFORMATION
 This engine is always free and open source software (FOSS), games made inside may not be free and open source software (FOSS), feature and my additions to this engine are in features.md, ALL PULL REQUESTS CODED IN AI WILL BE IGNORED!
+
+## VERY VERY IMPORTANT 
+**THIS IS IN DEVELOPMENT, THERES NO REALESES, I AM STILL LEARNING RUST! PLEASE DO NOT RUSH ME!**
