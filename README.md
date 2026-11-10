@@ -1,5 +1,4 @@
 <div align="center">
-  <a href="https://fyrox.rs/">
     <img src="pics/logo.png" width="128" height="128" alt="Fyrox" />
   </a>
   <h1>Hypertrox - a modern Rust game engine</h1>
