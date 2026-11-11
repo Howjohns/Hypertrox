@@ -1,6 +1,6 @@
 ## CORE ADDITIONS
 Im adding better graphics quality, allowing AAA games.
-I will also add support for cloud and online BUT you are paying for it.
+I will also add support for cloud and online BUT you are paying for it*.
 Another core addition will be my quick update system, which I will get into
 And dont forget for online integration, I will add anticheat.
 
@@ -18,3 +18,6 @@ Some features may be stripped for mobile and it may not be AAA depending on how 
 If I ever realese a IOS version, it will be a ipa.
 Android support will start as apk, then hopefully beable to get on google play.
 DO NOT RUSH ME ON IOS AND ANDROID SUPPORT
+
+**NOTICE**
+* online and cloud support will come much later, do not rush!
