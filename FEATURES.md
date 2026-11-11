@@ -1,8 +1,8 @@
 ## CORE ADDITIONS
 Im adding better graphics quality, allowing AAA games.
 I will also add support for cloud and online BUT you are paying for it*.
-Another core addition will be my quick update system, which I will get into
-And dont forget for online integration, I will add anticheat.
+Another core addition will be my quick update system, which I will get into.
+For online integration, I will add anticheat.
 
 **MY QUICK UPDATE SYSTEM**
 In this system, updates are simple, instead of installing a 200 gb file, 
